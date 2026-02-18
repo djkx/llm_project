@@ -1,0 +1,9 @@
+tensorflow-cpu
+tensorflow-datasets
+apache-airflow
+huggingface
+ipykernel
+jupyter
+pandas
+matplotlib
+seaborn

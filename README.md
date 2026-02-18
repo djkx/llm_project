@@ -8,4 +8,3 @@ Some goals:
 Suggested use:  
 - Install/activate virtual environment.
 - Install requirements.txt into venv.
-- python -m pip ipykernel install --user --name my_kernel --display-name 'llm kernel'
